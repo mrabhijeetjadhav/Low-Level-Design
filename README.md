@@ -169,6 +169,34 @@ Runtime behavior substitution and dynamic dispatch
 - Performance considerations
 - Interview-critical concepts
 
+### 13. [Types of Classes in C#](13.%20Types%20of%20classes%20in%20c%23.md)
+Understanding different class types and when to use them
+- Concrete (Normal) Classes
+- Abstract Classes
+- Static Classes
+- Sealed Classes
+- Partial Classes
+- Generic Classes
+- Nested Classes
+- When NOT to use each type
+- Bad vs Good design choices
+- Real-world use cases and product-based scenarios
+- Interview questions on class design
+
+### 14. [Types of Variables in C#](14.%20Types%20of%20variables%20in%20c%23.md)
+Mastering variable types, scope, and lifetime
+- What is a Variable?
+- Local Variables
+- Instance Variables (Fields)
+- Static Variables
+- Constants (const)
+- Read-only Fields (readonly)
+- Parameters
+- Variable scope and lifetime
+- Memory location (stack vs heap)
+- CLR perspective on variables
+- Interview questions on variable design
+
 ---
 
 ## 🎯 Who is this for?
