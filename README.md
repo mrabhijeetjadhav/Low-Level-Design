@@ -93,6 +93,82 @@ Clarifying the common misconception about value types
 - Stack vs Heap scenarios
 - Interview-critical understanding
 
+### 7. [Enums](07.%20Enums.md)
+Understanding enumerations and their role in type-safe code
+- What is an Enum?
+- Simple vs Technical definitions
+- Enum as a value type in CLR
+- Enum vs Constants comparison
+- When to use enums in LLD
+- Memory representation
+- Best practices and anti-patterns
+- Interview questions on type safety
+
+### 8. [Interface](08.%20Interface.md)
+Mastering contracts and abstraction through interfaces
+- What is an Interface?
+- Interface as a contract
+- Problems interfaces solve
+- Interface vs Abstract class
+- CLR and runtime view of interfaces
+- Dependency injection patterns
+- Multiple interface implementation
+- Interface segregation principle
+- Real-world examples and case studies
+
+### 9. [Encapsulation 🔒](09.%20Encapsulation.md)
+Protecting data and controlling access
+- What is Encapsulation?
+- Data hiding and access control
+- Access modifiers in C#
+- Properties vs Fields
+- CLR enforcement of encapsulation
+- Real-world analogies (ATM example)
+- Memory view of encapsulated objects
+- Getters, setters, and validation
+- Interview-ready explanations
+
+### 10. [Abstraction](10.%20Abstraction.md)
+Programming against contracts, not implementations
+- What is Abstraction?
+- Abstraction vs Implementation
+- Abstract classes and interfaces
+- Dependency on behavior, not details
+- CLR perspective on abstraction
+- Real-world examples (API, remote control)
+- Abstraction in SOLID principles
+- Design patterns using abstraction
+- Interview questions from top tech companies
+
+### 11. [Inheritance](11.%20Inheritance.md)
+Understanding IS-A relationships and code reuse
+- What is Inheritance?
+- IS-A relationship explained
+- Single, multilevel, and hierarchical inheritance
+- Why C# doesn't support multiple inheritance
+- Diamond problem and solutions
+- Constructor call order (Critical!)
+- Memory layout of inherited objects
+- Virtual method tables (v-tables)
+- Inheritance vs Composition
+- Fragile base class problem
+- Real-world case study: Employee management
+- When to use and avoid inheritance
+
+### 12. [Polymorphism](12.%20Polymorphism.md)
+Runtime behavior substitution and dynamic dispatch
+- What is Polymorphism?
+- Compile-time vs Runtime polymorphism
+- Method overloading vs Method overriding
+- Virtual methods and override keyword
+- Interface-based polymorphism
+- CLR and v-table implementation
+- Memory visualization of polymorphic calls
+- Open-Closed Principle in action
+- Real-world case study: Payment system
+- Performance considerations
+- Interview-critical concepts
+
 ---
 
 ## 🎯 Who is this for?
