@@ -60,6 +60,39 @@ Object-Oriented Programming concepts explained with examples
 - .NET real project usage patterns
 - One-page revision cheat sheet
 
+### 4. [Classes and Objects](04.%20Classes%20and%20Objects.md)
+Deep dive into classes and objects with practical examples
+- What is a Class?
+  - Why we need classes
+  - Technical definition and characteristics
+  - State and behavior concepts
+- Class representation in C#
+- Real-world analogies and examples
+- Blueprint nature of classes
+- Abstraction principles
+- Interview-ready explanations
+
+### 5. [Memory Management Class & Objects](05.%20Memory%20Management%20Class%20%26%20Objects.md)
+Understanding stack, heap, and memory allocation in C#
+- Stack vs Heap fundamentals
+- Memory visualization with methods
+- Value types and reference types
+- Local variables and fields
+- Method call frames
+- Object lifetimes and Garbage Collection
+- Line-by-line memory diagrams
+- Golden rules for memory management
+
+### 6. [Value types Stack vs Heap](06.%20Value%20types%20Stack%20vs%20Heap.md)
+Clarifying the common misconception about value types
+- The myth: "All value types are on the stack"
+- The correct rule: Value types stored inline
+- CLR reality and memory location rules
+- Where value types are actually stored
+- Practical examples with memory diagrams
+- Stack vs Heap scenarios
+- Interview-critical understanding
+
 ---
 
 ## 🎯 Who is this for?
